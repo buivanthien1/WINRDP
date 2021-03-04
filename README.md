@@ -9,7 +9,7 @@ Nhận lệnh Windows (Powershell) từ đây:
 
 https://remotedesktop.google.com/headless
 
-Nhập mã Pin sáu chữ số cho bạn để Đăng nhập
+Nhập mật khẩu sáu chữ số cho bạn để Đăng nhập
 
 (nhập mật khẩu có sáu chữ số bất kỳ)
 
