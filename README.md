@@ -15,4 +15,4 @@ Nhập mật khẩu sáu chữ số cho bạn để Đăng nhập
 
 Sau 2-3 phút Khởi tạo, Kiểm tra Ứng dụng hoặc Tài khoản CRD của bạn.
 
-`Thời gian Vĩnh Viễn`
+`Thời gian VPS:Vĩnh Viễn`
