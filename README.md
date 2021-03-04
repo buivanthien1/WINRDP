@@ -1,4 +1,4 @@
-# WINDOWS SERVER 
+# CREATE WINDOWS SERVER 
 `HƯỚNG DẪN`
 
 1.chọn `Ford`để mở ko lưu trữ
