@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       authcode:
-        description: 'Enter CRD code'
+        description: 'mã CRD google'
         required: true
       pincode:
-        description: 'Six digit Pin'
+        description: 'Mật khẩu 6 chữ'
         required: true
   
 jobs:
