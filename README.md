@@ -1,18 +1,17 @@
 # WINDOWS SERVER 
-Cách sử dụng
-
-Chỉ cần Fork Kho lưu trữ này, Đi tới tab Hành động, Chọn dòng công việc Windows-CRD. Sau đó chọn Chạy Dòng công việc điền dữ liệu sau vào Mã CRD và Ghim của bạn vào các trường. Sau đó, nhấn Bắt đầu.
-
-Nhập mã sau vào các trường.
-
-Nhận lệnh Windows (Powershell) từ đây:
+`HƯỚNG DẪN`
+1.chọn `Ford`để mở ko lưu trữ
+2.chọn `Actions`
+3.chọn `Windows-SV-CRD` ở phần Workflows
+4.chọn `Run Workflows`.Rổi `nhập Mã CRD google` và `Mật khẩu`
+5.Sau đó chọn `Run Workflows`Để VPS được tạo (mất 2-3 phút)
+-----------------------------------------------------------
+Lấy lệnh Windows (Powershell) từ đây:
 
 https://remotedesktop.google.com/headless
-
-Nhập mật khẩu sáu chữ số cho bạn để Đăng nhập
-
-(nhập mật khẩu có sáu chữ số bất kỳ)
-
-Sau 2-3 phút Khởi tạo, Kiểm tra Ứng dụng hoặc Tài khoản CRD của bạn.
-
-Thời gian VPS:`Vĩnh Viễn`
+-----------------------------------------------------------
+Sau khi làm xong bạn vào:
+`Website:`https://remotedesktop.google.com
+`App:`https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop&hl=vi&gl=US
+-----------------------------------------------------------
+Thời gian sử dụng VPS:`Vĩnh Viễn`
