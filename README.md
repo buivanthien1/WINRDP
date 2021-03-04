@@ -1,16 +1,18 @@
-# WINRDP
-How to use 
+# WINDOWS SERVER 
+Cách sử dụng
 
-Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
+Chỉ cần Fork Kho lưu trữ này, Đi tới tab Hành động, Chọn dòng công việc Windows-CRD. Sau đó chọn Chạy Dòng công việc điền dữ liệu sau vào Mã CRD và Ghim của bạn vào các trường. Sau đó, nhấn Bắt đầu.
 
-Input the following code in the fields.
+Nhập mã sau vào các trường.
 
-Get the Windows (Powershell) command from here:
+Nhận lệnh Windows (Powershell) từ đây:
 
 https://remotedesktop.google.com/headless
 
-Enter you Six digit Pin code to Login
+Nhập mã Pin sáu chữ số cho bạn để Đăng nhập
 
-(Any Six digit Pin)
+(nhập mật khẩu có sáu chữ số bất kỳ)
 
-Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
+Sau 2-3 phút Khởi tạo, Kiểm tra Ứng dụng hoặc Tài khoản CRD của bạn.
+
+Thời gian Vĩnh Viễn
