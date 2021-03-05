@@ -27,4 +27,4 @@ Sau khi làm xong bạn vào:
 
 -----------------------------------------------------------
 
-Thời gian sử dụng VPS:`12h`
+Thời gian sử dụng VPS:`6h`
